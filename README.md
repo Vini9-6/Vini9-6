@@ -1,8 +1,7 @@
 
 ## 👋 Olá
 
-Trabalho criando ferramentas que resolvem problemas do dia a dia. Gosto de automação, IoT e projetos que fazem diferença na prática.
-
+Sou estudante de Engenharia da Computação e trabalho criando ferramentas que resolvem problemas do dia a dia.
 ## 📂 Alguns projetos
 
 **🔧 Automação**
