@@ -27,14 +27,13 @@ Trabalho criando ferramentas que resolvem problemas do dia a dia. Gosto de autom
 
 ## 📊 Stats
 
-<details>
-<summary>GitHub Stats</summary>
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vini9-6&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vini9-6&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-</details>
+
 
 
 <div align="center">
