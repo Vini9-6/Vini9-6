@@ -1,21 +1,3 @@
-
-## 👋 Olá
-
-Sou estudante de Engenharia da Computação e trabalho criando ferramentas que resolvem problemas do dia a dia.
-## 📂 Alguns projetos
-
-**🔧 Automação**
-- Organizador de arquivos em Python
-- Ferramenta para mesclar PDFs
-
-**🌐 Web Development** 
-- Sistema de cadastro de estágios (Spring Boot)
-- Sistema bancário digital em Java
-
-**🤖 IoT & IA**
-- Monitor de vibrações com ESP32
-- Resumidor de vídeos do YouTube com IA
-
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,8 +7,6 @@ Sou estudante de Engenharia da Computação e trabalho criando ferramentas que r
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ## 📊 Stats
-
-
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Vini9-6&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
