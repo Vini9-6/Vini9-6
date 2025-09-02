@@ -10,11 +10,7 @@
 <p align="center">
   <a href="mailto:SEU_EMAIL_AQUI"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <br/>
-  ![IoT](https://img.shields.io/badge/-IoT-007ACC?style=for-the-badge)
-  ![Back-end](https://img.shields.io/badge/-Back--end-6DB33F?style=for-the-badge)
-  ![AI](https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-</p>
+
 
 ---
 
