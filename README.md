@@ -21,16 +21,6 @@ Meus projetos vão desde **APIs em Java/Spring Boot** até **sistemas IoT com ES
 
 ---
 
-### Projetos em destaque
-- [loja_spring](https://github.com/Vini9-6/loja_spring) — API de loja com Spring Boot + MySQL  
-- [web-vibrac-esp32](https://github.com/Vini9-6/web-vibrac-esp32) — Monitoramento de vibração em tempo real (ESP32 + web)  
-- [organizador-arquivos](https://github.com/Vini9-6/organizador-arquivos) — Automação em Python para organizar pastas  
-- [mescla-pdf](https://github.com/Vini9-6/mescla-pdf) — Unir múltiplos PDFs de forma simples  
-- [banco-java](https://github.com/Vini9-6/banco-java) — Simulação de banco digital com POO em Java  
-- [resume-video-ia](https://github.com/Vini9-6/resume-video-ia) — Transcrição e resumo automático de vídeos com IA  
-
----
-
 ### Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
