@@ -39,7 +39,7 @@ Meus projetos vão desde **APIs em Java/Spring Boot** até **sistemas IoT com ES
 ---
 
 <p align="center">
-  "stay hungry, stay foolish!"  
+  "stay hungry, stay foolish"  
   <br/>
   <sub>Vini9-6</sub>
 </p>
