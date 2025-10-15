@@ -18,7 +18,7 @@
 
 ### Olá! 
 
-Sou Desenvolvedor Back-end e estudante de Engenharia da Computação, gosto de criar soluções práticas que unem **código e hardware **.
+Sou Desenvolvedor Back-end e estudante de Engenharia da Computação, gosto de criar soluções práticas que unem **código e hardware ** .
 
 Minha principal área de atuação é o desenvolvimento de **APIs RESTful** com **Java** e **Spring Boot**, mas também tenho grande interesse por **IoT e Sistemas Embarcados**, onde desenvolvi projetos com **ESP32** e **C++**. Gosto de trabalhar em todo o ciclo de vida de um projeto, desde a concepção e modelagem de banco de dados até a conteinerização com **Docker**.
 
